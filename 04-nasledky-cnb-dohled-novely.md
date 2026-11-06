@@ -48,8 +48,6 @@ Zákon výslovně nestanoví, zda se vyžaduje zavinění; při doplňkovém pou
 
 Rozhodnutí, které právo na náhradu škody přiznává, je pro navrhovatele **co do základu** závazné i vůči ostatním poškozeným. Závaznost působí jen ve prospěch poškozených (zamítavý rozsudek ostatní nezavazuje) a jen co do základu; výši škody a vlastní aktivní legitimaci musí každý další žalobce prokázat sám.
 
-Změna od 10. 1. 2030 se § 50 netýká.
-
 #### F. Kazuistika
 
 **1. Modelová situace.** Společnost X koupí mimo trh balík akcií kótované cílové společnosti C a získá rozhodný podíl na hlasovacích právech. Oznámení o vzniku nabídkové povinnosti neuveřejní a nabídku převzetí neučiní. Akcionářka M, která akcie C drží dlouhodobě, se o transakci dozví z výroční zprávy C až za osm měsíců. Mezitím kurz akcií C výrazně klesl. Důkazy: smlouva o koupi balíku a cena v ní sjednaná, výpisy z evidence cenných papírů, výroční zpráva C, kurzovní historie.
@@ -133,8 +131,6 @@ Nárok lze uplatnit žalobou do 1 roku ode dne, kdy se oprávněný o vadě dozv
 
 Odstavce 1 až 5 se přiměřeně použijí na stanovisko podle § 16; odpovídají **členové představenstva a dozorčí rady** společně a nerozdílně. Odpovědnost je osobní (nikoli odpovědnost cílové společnosti). Jak ustanovení aplikovat na cílovou společnost s monistickou strukturou, je výkladovou otázkou. Vedle soukromoprávní odpovědnosti hrozí přestupky podle § 61 odst. 1 písm. b) a d); u navrhovatele přestupek podle § 62 odst. 1 písm. d).
 
-Změna od 10. 1. 2030 se § 51 netýká.
-
 #### F. Kazuistika
 
 **1. Modelová situace.** Navrhovatel N učinil dobrovolnou nabídku převzetí na akcie cílové společnosti C. V nabídkovém dokumentu uvedl, že po převzetí nehodlá měnit strategii C ani usilovat o vyřazení akcií z obchodování. Tři měsíce po skončení závaznosti N zahájí kroky k vyřazení akcií z obchodování; z interních materiálů vyplyne, že tento záměr měl již před uveřejněním nabídky. Akcionář P nabídku nepřijal a nyní drží méně likvidní akcie s nižším kurzem. Prohlášení podle § 11 odst. 1 učinila banka B.
@@ -192,8 +188,6 @@ Soud **není vázán** rozhodnutím ČNB o přiměřenosti výše protiplnění.
 #### Procesní souvislosti
 
 Přiměřeně se použijí § 50 odst. 3 věta první (vyvěšení oznámení o zahájení řízení a informování ČNB) a § 50 odst. 4 (závaznost rozhodnutí co do základu). Nepoužije se § 50 odst. 2 ani odst. 3 věta druhá; nárok proto nepodléhá šestiměsíční lhůtě a uplatní se obecné promlčení podle občanského zákoníku (§ 629 odst. 1 OZ). Zahájení řízení ve věci dorovnání výše protiplnění zakládá rozšířenou litispendenci podle § 83 odst. 2 písm. b) OSR. Pro navazující vytěsnění akcionářů je významné, že ZOK (§ 393) spojuje s protiplněním z povinné nabídky převzetí domněnku přiměřenosti protiplnění při výkupu.
-
-Změna od 10. 1. 2030 se § 52 netýká.
 
 #### F. Kazuistika
 
@@ -253,8 +247,6 @@ Pozastavení zaniká **dodatečným splněním** nabídkové povinnosti nebo **u
 #### Vztah k jiným pozastavením
 
 Od § 53 je třeba odlišit pozastavení výkonu práv podle § 18 odst. 1 (nabytí v rozporu s § 17) a pravomoc ČNB podle § 7a odst. 3 zákona č. 15/1998 Sb., o dohledu v oblasti kapitálového trhu, pozastavit i bez návrhu výkon hlasovacích práv osobě, která neučinila nabídku převzetí, ač jí zákon takovou povinnost ukládá, až na dobu jednoho roku od právní moci rozhodnutí; tam jde o diskreční správní rozhodnutí, nikoli o účinek ze zákona.
-
-Změna od 10. 1. 2030 se § 53 netýká.
 
 #### F. Kazuistika
 
@@ -327,8 +319,6 @@ V řízeních o zákazu uveřejnit nabídku převzetí, o žádosti o povolení 
 
 ČNB bezodkladně zveřejní způsobem umožňujícím dálkový přístup rozhodnutí o zákazu uveřejnit nabídku (§ 12 odst. 4), o žádosti o povolení uveřejnit nabídku převzetí, o prodloužení lhůty podle § 13 odst. 1 a o zákazu změny nebo odvolání nabídky (§ 23 odst. 3), se šetřením obchodního, bankovního a jiného chráněného tajemství. Účinky těchto rozhodnutí nastávají **zveřejněním**, nikoli doručením (odchylka od obecné úpravy oznamování rozhodnutí). Pojem „žádost o povolení uveřejnit nabídku převzetí“ se terminologicky liší od souhlasu s uveřejněním nabídkového dokumentu podle § 42 a § 56; že se odst. 3 písm. b) vztahuje i na něj, je třeba dovodit výkladem. Výkladovou otázkou je i postavení fiktivního souhlasu podle § 42 odst. 2, kdy žádné rozhodnutí vydáno není.
 
-Změna od 10. 1. 2030 se § 54 netýká.
-
 #### F. Kazuistika
 
 **1. Modelová situace.** ČNB zakáže uveřejnění nabídkového dokumentu navrhovatele S pro zjevně zkreslující informace (§ 12 odst. 4) a rozhodnutí zveřejní. S podá rozklad a tvrdí, že do rozhodnutí o něm může nabídku uveřejnit; cílová společnost C chce do řízení vstoupit a podpořit zákaz.
@@ -378,8 +368,6 @@ Postupuje-li ČNB podle § 12 odst. 4 nebo 5 (zákaz uveřejnění, uložení do
 Shledá-li ČNB vady nabídky převzetí, **může** navrhovatele vyzvat k nápravě a určit přiměřenou lhůtu, kterou lze z důležitých důvodů prodloužit. Výzva musí obsahovat poučení o významu nesplnění (typicky zákaz uveřejnění podle § 12 odst. 4). Výzva je alternativou k okamžitému zákazu a odpovídá zásadě přiměřenosti.
 
 Lhůta podle § 13 odst. 1 se výzvou „přerušuje“ a „po dobu lhůty stanovené ve výzvě pak neběží“. Formulace je nejednoznačná: slovo „přerušuje“ by mohlo svádět k závěru, že lhůta běží znovu od začátku, druhá část věty však popisuje stavení. Srovnání s § 56 odst. 3, který výslovně stanoví běh „od začátku“, podporuje závěr, že v § 55 odst. 2 jde o **stavení** lhůty; přesto jde o výkladovou otázku. Doručí-li navrhovatel změnu nebo doplnění oznámení, uplatní se i pravidlo § 13 odst. 1, podle něhož lhůta běží od doručení změny či doplnění.
-
-Změna od 10. 1. 2030 se § 55 netýká.
 
 #### F. Kazuistika
 
@@ -440,8 +428,6 @@ Vyzve-li ČNB k odstranění nedostatků žádosti (srov. § 45 odst. 2 správn�
 #### Spojení rozhodnutí (odst. 4)
 
 Rozhodne-li ČNB o změně výše protiplnění (§ 44, § 45), udělí **týmž rozhodnutím** souhlas s uveřejněním nabídky ve znění výroku o změně výše protiplnění. Navrhovatel tak nepodává novou žádost a nabídku uveřejní s protiplněním stanoveným ČNB.
-
-Změna od 10. 1. 2030 se § 56 netýká.
 
 #### F. Kazuistika
 
@@ -537,8 +523,6 @@ Dohled nad celým zákonem vykonává ČNB a dopadá na každého, komu zákon u
 
 Okruh kontrolovaných osob je vymezen úzce: cílová společnost a **povinná osoba** (pojem z § 35 odst. 1, tj. osoba s nabídkovou povinností). Zda lze kontrolu na místě podle § 58 provést i u navrhovatele dobrovolné nabídky, je výkladovou otázkou; vůči osobám podléhajícím dohledu nad kapitálovým trhem má ČNB obecné oprávnění vyžadovat informace, objasnění a provést kontrolu na místě podle § 8 odst. 1 zákona č. 15/1998 Sb.
 
-Změna od 10. 1. 2030 se § 58 netýká.
-
 #### F. Kazuistika
 
 **1. Modelová situace.** ČNB má podezření, že povinná osoba V zamlčela v žádosti o souhlas s povinnou nabídkou dodatečná plnění poskytnutá prodávajícímu balíku akcií (§ 43 odst. 4 a 6), a ohlásí kontrolu na místě v sídle V.
@@ -580,8 +564,6 @@ Kontrola na místě u cílové společnosti a povinné osoby se dnes provádí p
 § 59 stanoví lhůty pro **zahájení** správního řízení o uložení opatření k nápravě (§ 60): subjektivní lhůtu 1 rok ode dne, kdy se ČNB dozvěděla o rozhodných skutečnostech, a objektivní lhůtu 5 let ode dne, kdy naposledy došlo k porušení povinnosti nebo k jeho bezprostřední hrozbě. Pro včasnost je rozhodné zahájení řízení, tj. u řízení z moci úřední doručení oznámení o zahájení řízení účastníkovi (§ 46 odst. 1 správního řádu), nikoli vydání rozhodnutí. Formulace „naposledy“ odpovídá tomu, že porušení může mít trvající nebo opakovaný charakter. Subjektivní lhůta počíná, jakmile má ČNB informace v rozsahu umožňujícím úvahu o uložení opatření; pouhé neurčité podezření nestačí.
 
 Ustanovení se týká **jen opatření k nápravě**. Pro přestupky podle § 61 a 62 platí obecná úprava zákona o odpovědnosti za přestupky: promlčecí doba činí 3 roky, neboť horní hranice sazby pokuty je u všech přestupků podle ZNabP alespoň 100 000 Kč (§ 30 písm. b) ZOP), a její běh se řídí § 31 ZOP.
-
-Změna od 10. 1. 2030 se § 59 netýká.
 
 #### F. Kazuistika
 
@@ -647,8 +629,6 @@ Výčet je taxativní. Opatření podle písm. d) je nejzávažnější; u povin
 #### Procesní souvislosti
 
 Řízení musí být zahájeno ve lhůtách podle § 59. § 55 odst. 1 se na § 60 nevztahuje, proto se uplatní standardní postup podle správního řádu (včetně možnosti vyjádřit se k podkladům). Rozklad nemá odkladný účinek (§ 54 odst. 1). Porušení povinnosti uložené opatřením k nápravě je přestupkem podle § 62 odst. 1 písm. m) s horní hranicí pokuty 50 000 000 Kč. Opatření k nápravě není správním trestem; může být uloženo vedle přestupkového postihu.
-
-Změna od 10. 1. 2030 se § 60 netýká.
 
 #### F. Kazuistika
 
@@ -718,8 +698,6 @@ Za přestupek lze uložit pokutu **do 5 000 000 Kč**. U fyzické osoby se vyža
 #### Výkladové otázky
 
 Navrhovatel, který je právnickou nebo podnikající fyzickou osobou, není podle § 61 odst. 1 písm. a) postižitelný a § 62 povinnosti podle § 14 mezi skutkovými podstatami neuvádí; zda jde o záměr zákonodárce, nebo o mezeru, je výkladovou otázkou. Výkladovou otázkou je též aplikace pojmu „člen orgánu cílové společnosti“ na společnost s monistickou strukturou.
-
-Změna od 10. 1. 2030 se § 61 netýká.
 
 #### F. Kazuistika
 
@@ -858,8 +836,6 @@ Právnická osoba odpovídá za jednání osob, jejichž jednání je jí přič
 - **Odst. 3 — volba orgánu dohledu.** Upravuje zvláštní případ cílové společnosti, jejíž cenné papíry nejsou přijaty k obchodování na evropském regulovaném trhu ve státě sídla, ale současně na více evropských regulovaných trzích, ohledně nichž orgán dohledu do 20. června 2006 nesdělil svou příslušnost. Cílová společnost sama určí příslušný orgán dohledu, oznámí to dotčeným orgánům a organizátorům trhů a ČNB informaci uveřejní. Ustanovení navazuje na pravidla o příslušnosti u nabídek se zahraničním prvkem (§ 5).
 - **Odst. 4 — pravidlo průlomu.** § 32 odst. 2 se nepoužije na dohody uzavřené před 21. dubnem 2004 (datum přijetí směrnice 2004/25/ES, na kterou odkazuje poznámka pod čarou č. 1). Dohody z doby před tímto datem jsou tak chráněny před účinky průlomu.
 
-Změna od 10. 1. 2030 se § 64 netýká.
-
 #### F. Kazuistika
 
 **1. Modelová situace.** Akcionáři cílové společnosti C uzavřeli v roce 2003 dohodu omezující převoditelnost akcií. Valná hromada C později rozhodla o uplatnění pravidla průlomu a navrhovatel se dovolává § 32 odst. 2.
@@ -923,8 +899,6 @@ Přechodná ustanovení jsou z větší části vyčerpaná; praktický význam 
 § 67 je novelizačním ustanovením, které v souvislosti s přijetím ZNabP změnilo zákon č. 15/1998 Sb., o dohledu v oblasti kapitálového trhu: do § 7a odst. 1 doplnilo odkaz na zákon o nabídkách převzetí a nové písmeno „v souvislosti s nabídkou převzetí“, nově formulovalo písm. a) (veřejný návrh na koupi nebo směnu účastnických cenných papírů podle obchodního zákoníku), zrušilo § 7a odst. 4 a upravilo skutkové podstaty v § 9a a 9b. Změny nabyly účinnosti spolu se zákonem (1. 4. 2008), staly se součástí novelizovaného zákona a § 67 je svou aplikací **vyčerpán**.
 
 Platné znění je třeba hledat v zákoně č. 15/1998 Sb., ve znění pozdějších předpisů. V aktuálním znění § 7a odst. 1 odkazuje na zákon upravující právní poměry obchodních společností a družstev, zákon upravující nabídky převzetí a zákon upravující podnikání na kapitálovém trhu a dohled „v souvislosti s nabídkou převzetí“ je obsažen v písm. d); odkazy na ustanovení obchodního zákoníku jsou překonány jeho zrušením (§ 3080 bod 72 OZ, účinnost 1. 1. 2014). Skutková podstata porušení povinností podle § 7a odst. 1 písm. a) nebo c) je dnes v § 9b odst. 1 písm. e) zákona č. 15/1998 Sb.
-
-Změna od 10. 1. 2030 se § 67 netýká.
 
 #### F. Kazuistika
 
@@ -998,8 +972,6 @@ Změna od 10. 1. 2030 se § 67 netýká.
 
 Platné znění je v zákoně o podnikání na kapitálovém trhu, ve znění pozdějších předpisů. V aktuálním znění jsou obdobné informace obsaženy v § 118 odst. 5 písm. a) až k) jako součást výkazu o řízení a správě společnosti a povinnost řídicího orgánu předložit na řádné valné hromadě souhrnnou vysvětlující zprávu je v § 118 odst. 6. Odkaz na § 161a a 210 obchodního zákoníku v písm. n) původního znění je překonán zrušením obchodního zákoníku; aktuální text hovoří obecně o „zvláštní působnosti řídicího orgánu emitenta“.
 
-Změna od 10. 1. 2030 se § 68 netýká.
-
 #### F. Kazuistika
 
 **1. Modelová situace.** Navrhovatel analyzuje kótovanou cílovou společnost a hledá informace o smlouvách, které se změní při změně ovládání.
@@ -1051,8 +1023,6 @@ Změna od 10. 1. 2030 se § 68 netýká.
 § 69 je novelizačním ustanovením, které změnilo občanský soudní řád: (1) do § 9 odst. 3 písm. g) doplnilo mezi věci, v nichž rozhodovaly v prvním stupni krajské soudy, vztahy z nabídky převzetí nebo z nesplnění nabídkové povinnosti a vztahy z výkupu účastnických cenných papírů; (2) do § 83 odst. 2 vložilo písm. d) rozšiřující překážku zahájeného řízení (litispendenci) na věci náhrady škody nebo dorovnání výše protiplnění podle zákona o nabídkách převzetí a na věci přezkoumání protiplnění při výkupu. Ustanovení je svou aplikací **vyčerpáno**.
 
 Platné znění je v občanském soudním řádu, ve znění pozdějších předpisů. V aktuálním znění je vložený text obsažen v § 83 odst. 2 **písm. b)**: zahájení takového řízení brání tomu, aby proti témuž žalovanému probíhalo další řízení o žalobách jiných žalobců požadujících z téhož jednání nebo stavu stejné nároky. Navazuje na něj § 50 odst. 3 a § 52 ZNabP. Aktuální § 9 OSR výslovnou zmínku o vztazích z nabídky převzetí neobsahuje; věcnou příslušnost krajského soudu je třeba dovozovat z obecněji formulovaných skupin věcí v § 9 odst. 2 (např. spory týkající se investičních nástrojů a cenných papírů podle písm. j)); přesné zařazení je výkladovou otázkou.
-
-Změna od 10. 1. 2030 se § 69 netýká.
 
 #### F. Kazuistika
 
